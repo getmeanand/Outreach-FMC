@@ -1,0 +1,42 @@
+
+ 
+
+.logo-width{
+    width:170px;
+   }
+.menu-width{
+    width: calc(100% - 170px);
+}
+.padding{
+    padding-left: 5%
+}
+.right-padding{
+   float: right;
+}
+ 
+ .nav-item .nav-link{
+    color: white !important;
+}
+.bg-light{
+    background-color: #347abf!important;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+.navbar-nav{
+    width: 100%;
+}
+.nav-item .dropdown .admin{
+    margin-left: 800px !important;
+    
+}
+.remove-dot{
+    list-style: none;
+}
+
+.nav-color{
+    color: white;
+}
+.pad5{
+    padding-left: 5px;
+}
