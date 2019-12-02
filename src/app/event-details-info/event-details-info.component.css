@@ -1,0 +1,142 @@
+.eve-ben-details{
+    padding-top: 10px;
+}
+.eve-details-box  {
+    background: #347abf!important;
+    color: white;
+    height: 48px;
+    border-radius: .25rem;
+    padding-left: 13px;
+    
+}
+.eve-details-box-span{
+    padding-left: 50px;
+    padding-top: 10px
+}
+
+.loc-details-box{
+    background: #347abf!important;
+    color: white;
+    height: 48px;
+    border-radius: .25rem;
+}
+.loc-details-box-span{
+    padding-left: 50px;
+    padding-top: 10px
+}
+
+.paddadusy{
+    padding-top: 8px;
+    padding-bottom: 5px;  
+}
+.below-action-width{
+    margin-right: 5px;
+    margin-left: 2px;
+    height: 121px;
+}
+
+
+.email-box-icon{
+    padding-left: 27px;
+    padding-top: 25px;
+    background: #7676f7
+}
+
+.email-box-content{
+background: #c3d6e8;
+}
+.future-box-icon{
+    padding-left: 27px;
+    padding-top: 25px;
+    background:orange;
+}
+.future-box-content{
+    
+    background: #f1c6cc;
+}
+.clr-btn{
+    background: red;
+    border-radius: 6px;
+    border-bottom-style: none;
+    color: white;
+}
+.excel-btn{
+    background: blue;
+    border-radius: 6px;
+    border-bottom-style: none;
+    color: white;
+}
+.table-scroll{
+    display: block;
+    height: 400px;
+    overflow: auto;
+}
+.inline-li{
+   display: inline-block;
+padding-right: 8px;
+}
+.ul-right{
+    
+    float: right;
+    padding-top: 5px;
+    margin-bottom: 6px;
+}
+.event-top {
+    background-color: #347abf!important;
+    color: white;
+    height: 42px;
+}
+
+.below-action-width{
+    margin-right: 5px;
+    margin-left: 2px;
+    height: 100px;
+}
+.below-action-height{
+    height: 48px;
+}
+.event-content{
+    text-align: center;
+    padding-top: 10px; 
+    margin-bottom: 5px
+}
+.participated{
+    background: #347abf!important;
+    color: white;
+    height: 40px;
+    padding-left: 0px;
+    padding-left: 20px;
+    padding-top: 6px;
+    
+}
+.participated-info{
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px
+}
+.participated-info-box{  
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 8px;
+}
+.not-participated{
+    background: #347abf!important;
+    color: white;
+    height: 40px;
+    padding-left: 0px;
+    padding-left: 20px;
+    padding-top: 6px;
+}
+
+.un-registered{
+    background: #347abf!important;
+    color: white;
+    height: 40px;
+    padding-left: 0px;
+    padding-left: 20px;
+    padding-top: 6px; 
+}
+
+
+

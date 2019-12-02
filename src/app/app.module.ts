@@ -9,6 +9,7 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { EventDetailsComponent } from './event-details/event-details.component';
+import { EventDetailsInfoComponent } from './event-details-info/event-details-info.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { EventDetailsComponent } from './event-details/event-details.component';
     DashboardComponent,
     HeaderComponent,
     FooterComponent,
-    EventDetailsComponent
+    EventDetailsComponent,
+    EventDetailsInfoComponent
   ],
   imports: [
     BrowserModule,
